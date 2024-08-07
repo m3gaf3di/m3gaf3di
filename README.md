@@ -36,8 +36,8 @@
   </div>
 
 <center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mellywins&show_icons=true&locale=en" alt="mellywins" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3gaf3di&show_icons=true&locale=en" alt="m3gaf3di" /></p>
 </center>
 <center>
-<p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mellywins&" alt="mellywins" /></p>
+<p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3gaf3di&" alt="m3gaf3di" /></p>
 </center>
