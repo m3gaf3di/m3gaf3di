@@ -34,6 +34,7 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </p>
   </div>
+ ![Donut-C](https://github.com/user-attachments/assets/3ec5ae7d-903e-4015-9e19-bdd9f818ee46)
 
 <center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3gaf3di&show_icons=true&locale=en" alt="m3gaf3di" /></p>
