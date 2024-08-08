@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mellywins&label=Profile%20views&color=0e75b6&style=flat" alt="mellywins" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mellywins" alt="mellywins" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mellywins" alt="m3gaf3di" /></a> </p>
 
 - Author of  [@ProtonINc](https://protonagency.netlify.app/).
 
