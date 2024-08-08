@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **fedi.sghaier1@outlook.com**
 
+ ![Donut-C](https://github.com/user-attachments/assets/57f944ad-0b49-472b-a2e4-fc24424c1db5)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tn.linkedin.com/in/med-fedi-sghaier-aa1756154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://tn.linkedin.com/in/med-fedi-sghaier-aa1756154" height="30" width="40" /></a>
@@ -34,7 +37,6 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </p>
   </div>
- ![Donut-C](https://github.com/user-attachments/assets/3ec5ae7d-903e-4015-9e19-bdd9f818ee46)
 
 <center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3gaf3di&show_icons=true&locale=en" alt="m3gaf3di" /></p>
