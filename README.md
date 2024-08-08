@@ -7,17 +7,17 @@
 
 - Author of  [@ProtonINc](https://protonagency.netlify.app/).
 
-- 🔭 I’m currently working as a Backend Engineer.
+- 🔭 I’m currently working as a junior fullstack developer.
 
-- 🌱 I’m enthousiastic about DDD, Event Driven Microservice Architectures. You can see me applying them in [@EzyFS](https://github.com/Mellywins/EzyFS).
+- 🌱 I’m enthousiastic about DDD, Event Driven Microservice Architectures. .
 
 <!-- - 👨‍💻 All of my projects are available at [https://mellywins.github.io/Portfolio/](https://mellywins.github.io/Portfolio/) -->
 
-- 📫 How to reach me **oussama.zouaghi@insat.ucar.tn**
+- 📫 How to reach me **fedi.sghaier1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/oussema-zouaghi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oussema-zouaghi/" height="30" width="40" /></a>
+<a href="https://tn.linkedin.com/in/med-fedi-sghaier-aa1756154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://tn.linkedin.com/in/med-fedi-sghaier-aa1756154" height="30" width="40" /></a>
 </p>
 <div align="center"> 
 <h3 align="left">Languages and Tools:</h3>
