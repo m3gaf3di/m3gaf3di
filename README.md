@@ -7,9 +7,9 @@
 
 - Author of  [@ProtonINc](https://protonagency.netlify.app/).
 
-- 🔭 I’m currently working as a junior fullstack developer.
+- 🔭 I’m currently working as a junior fullstack intern.
 
-- 🌱 I’m enthousiastic about DDD, Event Driven Microservice Architectures. .
+- 🌱 I’m enthousiastic about DDD, Event-Driven Microservice Architecture. .
 
 <!-- - 👨‍💻 All of my projects are available at [https://mellywins.github.io/Portfolio/](https://mellywins.github.io/Portfolio/) -->
 
