@@ -7,7 +7,7 @@
 
 - Author of  [@ProtonINc](https://protonagency.netlify.app/).
 
-- 🔭 I’m currently working as a junior fullstack intern.
+- 🔭 I’m currently working as a cybersecurity intern.
 
 - 🌱 I’m enthousiastic about DDD, Event-Driven Microservice Architecture. .
 
